@@ -1,6 +1,7 @@
 body {
 	background: url(../img/mikhail-vasilyev-34524.jpg);
 	background-size: cover;
+	/*background-position: center;*/
 }
 
 #content {
