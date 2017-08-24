@@ -2,7 +2,7 @@
 
 ![Purrfect Match](https://github.com/toddcf/purrfect-match/blob/master/assets/img/mikhail-vasilyev-34524.jpg "Purrfect Match")
 
-Mobile-responsive landing page example for startup.
+Mobile-responsive landing page sample for startup.
 
 ## Technology Used
 
