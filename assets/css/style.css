@@ -1,10 +1,9 @@
-html {
-	height: 100%; /* Takes up entire height of document, so our bg image looks correct. */
-}
+html { height: 100%; /* Takes up entire height of document, so our bg image looks correct. */ }
 
 body {
 
 	background: url(../img/mikhail-vasilyev-34524.jpg);
+	/*Cat Image Link: https://unsplash.com/search/photos/cat?photo=Qmox1MkYDnY*/
 	background-size: cover;
 	background-position: center;
 	font-family: 'Lato', sans-serif;
@@ -39,6 +38,4 @@ hr {
 .fa-user,
 .fa-user-plus {	padding-left: 8px; }
 
-.fa-paw {
-	padding-right: 8px;
-}
+.fa-paw { padding-right: 8px; }
