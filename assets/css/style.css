@@ -3,11 +3,13 @@ html {
 }
 
 body {
+
 	background: url(../img/mikhail-vasilyev-34524.jpg);
 	background-size: cover;
 	background-position: center;
 	font-family: 'Lato', sans-serif;
 	color: #000;
+
 }
 
 #content {
@@ -21,19 +23,21 @@ body {
 }
 
 h1 {
+
 	font-weight: 700;
 	font-size: 500%;
+
 }
 
 hr {
+
 	width: 400px;
 	border-color: #000;
+
 }
 
 .fa-user,
-.fa-user-plus {
-	padding-left: 8px;
-}
+.fa-user-plus {	padding-left: 8px; }
 
 .fa-paw {
 	padding-right: 8px;
