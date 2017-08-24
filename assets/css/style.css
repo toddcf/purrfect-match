@@ -27,6 +27,11 @@ hr {
 	border-color: #000;
 }
 
+.fa-user,
+.fa-user-plus {
+	padding-left: 8px;
+}
+
 .fa-paw {
 	padding-right: 8px;
 }
