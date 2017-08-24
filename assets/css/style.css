@@ -22,6 +22,11 @@ h1 {
 	font-size: 500%;
 }
 
+h1,
+h3 {
+	text-shadow: 1px 1px 2px #d3d3d3;
+}
+
 hr {
 	width: 400px;
 	border-color: #000;
