@@ -21,3 +21,12 @@ h1 {
 	font-weight: 700;
 	font-size: 500%;
 }
+
+hr {
+	width: 400px;
+	border-color: #000;
+}
+
+.fa-paw {
+	padding-right: 8px;
+}
