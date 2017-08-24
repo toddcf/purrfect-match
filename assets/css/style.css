@@ -1,3 +1,8 @@
+body {
+	background: url(../img/mikhail-vasilyev-34524.jpg);
+	background-size: cover;
+}
+
 #content {
 
 	text-align: center;
