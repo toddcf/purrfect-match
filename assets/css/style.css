@@ -1,4 +1,4 @@
-html { height: 100%; /* Takes up entire height of document, so our bg image looks correct. */ }
+html { min-height: 100%; /* Takes up entire height of document, so our bg image looks correct. */ }
 
 body {
 
